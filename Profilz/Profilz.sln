@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profilz", "Profilz\Profilz.csproj", "{F2FCF59F-FAC0-4D23-8075-03FC51DC8169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profilz.Test", "Profilz.Test\Profilz.Test.csproj", "{C919B87C-2178-4AC4-B4C5-965088A0B6A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2FCF59F-FAC0-4D23-8075-03FC51DC8169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2FCF59F-FAC0-4D23-8075-03FC51DC8169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2FCF59F-FAC0-4D23-8075-03FC51DC8169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C919B87C-2178-4AC4-B4C5-965088A0B6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C919B87C-2178-4AC4-B4C5-965088A0B6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C919B87C-2178-4AC4-B4C5-965088A0B6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C919B87C-2178-4AC4-B4C5-965088A0B6A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
